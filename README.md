@@ -35,7 +35,7 @@ Sem Node. Sem npm. Sem Webpack. Um arquivo, um double-click, funciona.
 Como usar
 bash# Clone o repositório
 
-git clone https://github.com/seu-usuario/engenho-editor.git
+git clone https://loadix7.github.io/Layout-de-fabrica-
 
 # Abra o arquivo no navegador
 open engenho-editor.html
