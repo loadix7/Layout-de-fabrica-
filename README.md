@@ -1,4 +1,6 @@
 # Layout-de-fabrica-
+link: https://loadix7.github.io/Layout-de-fabrica-
+
 Esse editor nasceu de uma necessidade real do jogo de empresa Engenho Treinamentos: montar layouts de chão de fábrica de forma visual, sem ferramentas pesadas. É um único arquivo HTML — abre no navegador, sem instalação. Arrasta peças, conecta fluxos, salva automático.
 Engenho Editor — Layout Interativo de Chão de Fábrica
 
@@ -32,11 +34,7 @@ Tecnologias
 Por quê HTML + CSS inlineZero dependências externas, roda em qualquer lugarReact 18 (via CDN)Gerenciamento de estado reativo sem buildBabel StandaloneJSX no navegador, sem compilaçãolocalStoragePersistência real sem backendSVGRenderização das setas de fluxo animadas
 Sem Node. Sem npm. Sem Webpack. Um arquivo, um double-click, funciona.
 
-Como usar
-bash# Clone o repositório
-
-git clone https://loadix7.github.io/Layout-de-fabrica-
-
+#Como usar
 # Abra o arquivo no navegador
 open engenho-editor.html
 Ou simplesmente baixe o engenho-editor.html e abra direto. Não precisa de servidor.
