@@ -5,7 +5,6 @@ Esse editor nasceu de uma necessidade real do jogo de empresa Engenho Treinament
 Engenho Editor — Layout Interativo de Chão de Fábrica
 
 Projeto de estudo desenvolvido por Kaique Mota — 9º Semestre, Engenharia de Produção
-Parceria acadêmica com a Engenho Treinamentos
 
 Sobre o projeto
 Esse editor nasceu de uma necessidade real: o jogo de empresa Engenho Treinamentos simula uma fábrica, e eu precisava de uma forma visual e interativa de montar e apresentar layouts de chão de fábrica sem depender de ferramentas pesadas como AutoCAD ou Visio.
